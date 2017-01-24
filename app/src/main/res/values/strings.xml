@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">example-with-kotlin</string>
+    <string name="search_by_ask_answers">Pesquisa perguntas e respostas</string>
+</resources>
